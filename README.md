@@ -1,16 +1,16 @@
-# 课程管理系统 (Course Management System)
+# 作业管理系统 (Assignment Management System)
 
-这是一个用Python开发的课程管理系统，提供了完整的课程管理、作业提交和评分功能。
+这是一个用Python开发的作业管理系统，提供了完整的作业发布、提交和评分功能。
 
 ## 功能特点
 
 - 用户注册和登录
-- 课程管理
 - 作业发布和管理
 - 作业提交
 - 作业评分
 - 成绩查看
 - 提交记录查看
+- 批量作业管理
 
 ## 系统要求
 
@@ -22,7 +22,7 @@
 1. 克隆仓库
 ```bash
 git clone [repository-url]
-cd Courses_System
+cd Assignment_management_system
 ```
 
 2. 安装依赖
